@@ -1,0 +1,9 @@
+一、微信开放平台：https://open.weixin.qq.com/
+
+二、回调域：
+1.指的是回调的域名
+2.授权回调域的设置
+3.请求代码设置回调url应当在80端口（未测试8080端口是否有效）
+4.请求的域必须与回调域保持在一个域下
+
+三、开发文档（获取code，access_token，用户信息等）：https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=open1419316505&token=2d140b09132f4efd2769d8ea85d357da538c1882&lang=zh_CN
